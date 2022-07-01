@@ -109,6 +109,10 @@ section .title::after{
 .navbar.sticky .logo a span{
     color: #fff;
 }
+.columnrightt {
+    width: 1%;
+    margin-bottom: 35px;
+}
 .logo {
     margin-left: -150px;
 
@@ -313,9 +317,7 @@ section .title::after{
 
 /* skills section styling */
 
-.skills .title::after{
-    content: "what i know";
-}
+
 .skills .skills-content .column{
     width: calc(50% - 30px);
 }
